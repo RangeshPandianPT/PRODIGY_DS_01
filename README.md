@@ -35,6 +35,12 @@ population-data-generator/
 - Visualize distributions with matplotlib/seaborn
 - Modular scripts and Jupyter notebook included
 
+---
+
+# Visualization 
+
+
+
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
