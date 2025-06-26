@@ -39,6 +39,8 @@ population-data-generator/
 
 # Visualization 
 
+![Image](https://github.com/user-attachments/assets/51335ca2-8563-45e2-856f-1638a0c90fbc)
+
 ![Image](https://github.com/user-attachments/assets/cf6669f6-91c7-4d76-8c47-798fdec316d5)
 
 ![Image](https://github.com/user-attachments/assets/4212c315-5809-44dd-baec-04875f6649a4)
